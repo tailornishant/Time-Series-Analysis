@@ -17,3 +17,5 @@
 - Identify bottle neck areas inside the mall
 - Analyze in store activity.
 - Monitor the success of running promotions to boost the ROI.
+
+### OBEJCTIVE : To Forecast Footfalls for Future Months using Time Series Analysis
